@@ -2,4 +2,4 @@
 
 ### see the project [here](https://nimble-crumble-bd7a9b.netlify.app/).
 
-![Demo](https://user-images.githubusercontent.com/46050946/122202940-29c64d00-cebb-11eb-944c-a4657ca7d40d.png)
+![Demo](https://user-images.githubusercontent.com/46050946/187080206-a269eeaa-8263-45cf-b09d-aa45db3d87d6.png)
